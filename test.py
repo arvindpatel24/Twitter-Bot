@@ -3,10 +3,10 @@ import time
 from datetime import datetime
 
 
-consumerKey = 'kBjOPne7FZQRYIwXm8k7XNZWI'
-consumerSecret = 's5ijbQJPROSUu0qV4buPlyJC2YexVuaoQFeXCHcIvkQIFU9ObQ'
-accessKey = '1287584776396972034-FUNy52XFwDCnpPtaZcPKr2YuMksSo6'
-accessSecret = 'ziRoF97CKDhOEUhEOXhAxWyM3Pxn1YXAcqkkthdbxPIJZ'
+consumerKey = *****'
+consumerSecret = *****'
+accessKey = *****
+accessSecret = *****
 
 auth = tweepy.OAuthHandler(consumerKey,consumerSecret)
 auth.set_access_token(accessKey,accessSecret)
